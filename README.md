@@ -1,8 +1,10 @@
 Olá, eu sou Joyce Gonçalves
 
-- 🔭 Programadora Oracle 
+- 🔭 Desenvolvedora Oracle 
 - 🎓 Formada em Análise Desenvolvimento de Sistemas 
 - 🌱 Cursando Pós em Engenharia de Software
+- 🌱 Aprendendo Python ...
+
 
 <div>
   <a href = "https://github.com/JoyceGoncalves">
